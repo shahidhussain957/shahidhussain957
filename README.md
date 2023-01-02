@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shahid Hussain
 - 👀 I’m interested in Learning java and fronted development
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on “Thank you for this great opportunity to collaborate on something so important!".
 - 📫 How to reach me shahidhusdain8520820096@gmail.com
 
 <!---
