@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidhussain957" alt="shahidhussain957" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@shahidh04023607" target="blank"><img src="https://img.shields.io/twitter/follow/@shahidh04023607?logo=twitter&style=for-the-badge" alt="@shahidh04023607" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shahidh04023607" target="blank"><img src="https://img.shields.io/twitter/follow/shahidh04023607?logo=twitter&style=for-the-badge" alt="shahidh04023607" /></a> </p>
 
 - 🔭 I’m currently working on **Library Management System**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@shahidh04023607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shahidh04023607" height="30" width="40" /></a>
+<a href="https://twitter.com/shahidh04023607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahidh04023607" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
