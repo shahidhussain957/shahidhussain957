@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahid Hussain</h1>
 <h3 align="center">Google Certified Data Analyst</h3>
-<img align="right" alt="analyst" width="400" src="https://shorturl.at/fpe7T">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidhussain957&label=Profile%20views&color=0e75b6&style=flat" alt="shahidhussain957" /> </p>
 
